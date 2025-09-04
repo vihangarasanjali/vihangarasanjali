@@ -1,16 +1,25 @@
-## Hi there 👋
+## I'm 
+# A passionate Fullstack Enthusiast
 
 <!--
-**vihangarasanjali/vihangarasanjali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+```js
+const vihanga = {
+  name: "Vihanga Rasanjali",
+  education: "IT undergraduate at University of Moratuwa (Graduating 2027)",
+  skills: [
+    "Full-stack development",
+    "Cloud & DevOps (beginner)",
+    "Databases (MySQL, MongoDB)",
+    "Problem Solving"
+  ],
+  interests: [
+    "Building user-friendly apps",
+    "Working with APIs",
+  ],
+  hobbies: [
+    "Playing chess ",
+    "Listening music",
+    "travelling"
+  ]
+}
 -->
